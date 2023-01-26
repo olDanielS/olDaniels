@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi, me chamo Daniel, sou estudante de Analise e desenvolvimento de sistemas e sou apaixonado por tecnologia.
+Opa, me chamo Daniel, sou estudante de Analise e desenvolvimento de sistemas e sou apaixonado por tecnologia.
 
 
 ## 🌐 Socials:
