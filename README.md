@@ -1,5 +1,5 @@
 # 💫 About Me:
-Opa, me chamo Daniel, sou estudante de Analise e desenvolvimento de sistemas e sou apaixonado por tecnologia.
+Opa, me chamo Daniel, sou estudante de Analise e desenvolvimento de sistemas e sou apaixonado por tecnologia. Atualmente foquei meus estudos para a área mobile utilizando React Native e venho estudando NodeJS, NestJS e algumas outras tecnologias. 
 
 
 ## 🌐 Socials:
