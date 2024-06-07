@@ -1,6 +1,12 @@
 # About Me:
 Olá, me chamo Daniel, sou estudante de Analise e desenvolvimento de sistemas e sou apaixonado por tecnologia. Atualmente foquei meus estudos para a área mobile utilizando React Native, mas também venho estudando NodeJS/NestJS, React, CyberSecurity e algumas outras tecnologias. 
 
+Possuo experiência prática em diversos projetos com React Native e tenho conhecimento nas seguintes tecnologias:
+
+Navegação: Stack, Drawer e Tabs
+Gerenciamento de Estados: ContextAPI, Redux
+Estilização: Tailwind CSS, Styled Components, SASS
+Integração de APIs: fetch, axio
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_olv7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oldanielsantos/) 
